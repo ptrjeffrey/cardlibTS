@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "tsc-node": "^0.0.3"
+  }
+}
